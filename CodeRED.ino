@@ -2,8 +2,8 @@
 #include <WiFiUdp.h>
 
 // ===== WiFi credentials =====
-const char* ssid = "MickeyiPhone";
-const char* password = "Mickey4t670";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 // ===== UDP setup =====
 WiFiUDP udp;
